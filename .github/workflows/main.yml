@@ -3,7 +3,7 @@ name: Laravel + Vite CI/CD
 on:
   push:
     branches:
-      - main
+      - master
 
 jobs:
   build-and-deploy:
