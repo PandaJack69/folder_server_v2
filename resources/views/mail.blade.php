@@ -24,18 +24,18 @@
       overflow: hidden;
     }
 
-    .form-header {
+    /* .form-header {
       background-color: #276ef1;
       color: white;
       text-align: center;
       padding: 20px;
-    }
-     /* .form-header {
+    } */
+     .form-header {
       background: linear-gradient(135deg, #276ef1, #7b42f6);
       color: white;
       text-align: center;
       padding: 20px;
-    } */
+    }
 
     .form-header h2 {
       margin: 0;
